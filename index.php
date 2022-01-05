@@ -11,7 +11,6 @@ while($rem != 1){
                 $rem = $rem / $del;
                 echo($del."<br>");
                 $del--;
-                
             }
         }
     }else{
